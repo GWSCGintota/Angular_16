@@ -1,0 +1,29 @@
+<div class="container-fluid main-page">
+
+  <!-- Header -->
+  <app-header-component></app-header-component>
+
+  <!-- Navigation -->
+  <div class="top-nav">
+    <a [routerLink]="''">Home</a>
+    <a [routerLink]="'shop'">Shop</a>
+    <a [routerLink]="'deals'">Deals</a>
+    <a [routerLink]="'new-arrivals'">New Arrivals</a>
+    <a [routerLink]="'best-sellers'">Best Sellers</a>
+    <a [routerLink]="'contact-us'">Contact Us</a>
+  </div>
+
+  <div class="content-area">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <app-sidebar-component></app-sidebar-component>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+
+</div>

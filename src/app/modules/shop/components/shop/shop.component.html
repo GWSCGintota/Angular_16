@@ -1,0 +1,112 @@
+<div class="top-header">
+
+  <div>
+    <h1>All Products</h1>
+    <p>Showing 1–20 of 240 products</p>
+  </div>
+
+  <div class="sort-section">
+
+    <select>
+      <option>Popularity</option>
+      <option>Latest</option>
+      <option>Price Low</option>
+    </select>
+
+    <button class="grid-btn active">
+      <mat-icon>grid_view</mat-icon>
+    </button>
+
+    <button class="grid-btn">
+      <mat-icon>view_list</mat-icon>
+    </button>
+
+  </div>
+
+</div>
+
+<!-- FILTER CHIPS -->
+
+<div class="chips">
+
+  <button>Filters</button>
+  <button>Categories</button>
+  <button>Brand</button>
+  <button>Price</button>
+  <button>Rating</button>
+  <button>Availability</button>
+
+</div>
+
+<!-- PRODUCTS GRID -->
+
+<div class="products-grid">
+
+  <div
+    class="product-card"
+    *ngFor="let product of displayProducts"
+  >
+
+        <span
+          class="tag"
+          *ngIf="product.tag"
+        >
+          {{ product.tag }}
+        </span>
+
+    <button class="wishlist">
+      <mat-icon>favorite_border</mat-icon>
+    </button>
+
+    <img
+      (click)="navigateToProduct(product.id)"
+      [src]="product.image"
+      [alt]="product.name"
+    >
+
+    <h4>{{ product.name }}</h4>
+
+    <div class="rating">
+      ★★★★☆
+      <span>(120)</span>
+    </div>
+
+    <div class="price">
+
+          <span class="new-price">
+            ${{ product.price }}
+          </span>
+
+      <span class="old-price">
+            ${{ product.oldPrice }}
+          </span>
+
+    </div>
+
+    <button class="cart-btn">
+      <mat-icon>shopping_cart</mat-icon>
+      Add to Cart
+    </button>
+
+  </div>
+
+</div>
+
+<!-- PAGINATION -->
+
+<div class="pagination">
+
+  <button>
+    <mat-icon>chevron_left</mat-icon>
+  </button>
+
+  <button class="active">1</button>
+  <button>2</button>
+  <button>3</button>
+  <button>4</button>
+
+  <button>
+    <mat-icon>chevron_right</mat-icon>
+  </button>
+
+</div>

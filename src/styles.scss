@@ -1,0 +1,36 @@
+body {
+  background: #f7f7f7;
+  font-family: Arial, sans-serif;
+}
+
+.main-page {
+  padding: 20px;
+}
+
+.content-area {
+  display: flex;
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.sidebar {
+  width: 280px;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.top-nav {
+  display: flex;
+  gap: 30px;
+  padding: 20px 0;
+  font-weight: 500;
+}
+
+.top-nav a {
+  cursor: pointer;
+}/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

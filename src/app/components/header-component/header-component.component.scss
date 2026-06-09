@@ -1,0 +1,45 @@
+.header {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  background: white;
+}
+
+.brand {
+  font-size: 32px;
+  font-weight: 700;
+  color: #6c4df6;
+}
+
+.search-box {
+  width: 50%;
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.search-box select,
+.search-box input {
+  border: none;
+  padding: 12px;
+  outline: none;
+}
+
+.search-box input {
+  flex: 1;
+}
+
+.search-box button {
+  width: 60px;
+  border: none;
+  background: #6c4df6;
+  color: white;
+}
+
+.icons {
+  display: flex;
+  gap: 20px;
+}
