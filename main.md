@@ -21,3 +21,4 @@
   - [Parent to child](note/parent_to_child.md)
   - [Child to Parent](note/child_to_parent.md)
 - [Component Life Cycle](note/component_life_cycle.md)
+- [Module](note/module.md)
