@@ -2,6 +2,12 @@
 
 ## What is an Angular Module?
 
+Angular 8 --> Angular 14 Modules
+Anular 16++ Module and Module less
+
+- Create Module  - ng g m <module name>
+- Create Component in specific module - ng g c <component path>/<component name> -m <module name>
+
 An Angular module (also called **NgModule**) is a container that groups related parts of an application such as:
 
 * Components

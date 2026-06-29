@@ -100,17 +100,24 @@ export class ShopComponent implements OnInit {
       console.log(params);
       const category = params['category'];
       const rating = params['rating'];
+      const minPrice = params['minPrice'];
+      const maxPrice = params['maxPrice'];
 
       const filter = {
         category: category,
-        rating: rating
+        rating: rating,
+        minPrice: minPrice,
+        maxPrice: maxPrice
       }
 
       this.displayProducts = this.products.filter(
         item => {
           return (
             (filter.category === undefined || item.category === filter.category) &&
-            (filter.rating === undefined || item.rating.toString() === filter.rating)
+            (filter.rating === undefined || item.rating.toString() === filter.rating)&&
+            (filter.rating === undefined || item.price>= Number(filter.minPrice))&&
+            (filter.rating === undefined || item.price<= Number(filter.maxPrice))
+
           );
         }
       );

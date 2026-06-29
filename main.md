@@ -22,3 +22,9 @@
   - [Child to Parent](note/child_to_parent.md)
 - [Component Life Cycle](note/component_life_cycle.md)
 - [Module](note/module.md)
+- [Routes](note/routes.md)
+- [How to Create a Module and Routing File Using One Command](note/module_router_command.md)
+- [Service](note/service.md)
+  - [Service Hierarchy](note/service_hiearchical.md)
+- [Interface](note/interface.md)
+
