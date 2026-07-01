@@ -1,3 +1,5 @@
+[Main Index](../main.md) | [Next: 2. History →](history.md)
+
 # Introduction to Angular
 
 ## What is Angular?

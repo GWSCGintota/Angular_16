@@ -1,3 +1,6 @@
+[← Previous: 1. Introduction](01-introduction.md) | [Main Index](../main.md) | [Next: 3. Why Use Spring Boot? →](03-why-use-spring-boot.md)
+
+
 # Angular Version History
 
 Angular has evolved significantly since its first release. Below is a timeline of major Angular versions and their release years.
