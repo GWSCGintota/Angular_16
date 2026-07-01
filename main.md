@@ -1,8 +1,8 @@
 # Angular
 
-- [Introduction](note/instoduction.md)
-- [History](note/history.md)
-- [Install Angular](note/install.md)
+- 1. [Introduction](note/instoduction.md)
+- 2. [History](note/history.md)
+- 3. [Install Angular](note/install.md)
 - [How to Run Angular](note/how_run_angular.md)
 - [Angular Core Pillars](note/core_pillars.md)
 - [Module-less Concept in Angular](note/Module-less.md)
