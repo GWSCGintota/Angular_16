@@ -1,3 +1,6 @@
+[← Previous: 1. History](history.md) | [Main Index](../main.md) | [Next: 3. Install Angular? →](install.md)
+
+
 # How to Create an Angular Project
 
 ## Prerequisites
