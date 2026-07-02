@@ -1,4 +1,4 @@
-[← Previous: 1. History](history.md) | [Main Index](../main.md) | [Next: 3. Install Angular? →](install.md)
+[← Previous: 1. History](history.md) | [Main Index](../main.md) | [Next: 4.How to Run Angular? →](how_run_angular.md)
 
 
 # How to Create an Angular Project

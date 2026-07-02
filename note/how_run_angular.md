@@ -1,3 +1,5 @@
+[← Previous:3. Install Angular? →](install.md)| [Main Index](../main.md) | [Next: 4. Angular Folder Structure? →](best_angular_project_folder_structure.md)
+
 # How Angular Works Internally (Step-by-Step)
 
 ## Overview
