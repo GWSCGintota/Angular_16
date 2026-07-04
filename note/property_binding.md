@@ -1,3 +1,5 @@
+[← Previous:10.Data Binding / interpolation? →](interpolation.md)| [Main Index](../main.md) | [Next: 10.Data Binding / Event Binding? →](event_binding.md)
+
 # Property Binding in Angular
 
 ## What is Property Binding?
@@ -127,3 +129,4 @@ Use property binding when:
 ## Conclusion
 
 Property binding in Angular is a powerful feature that allows dynamic control of DOM properties using data from the component. It improves UI flexibility and keeps the view synchronized with application state.
+[← Previous:10.Data Binding / interpolation? →](interpolation.md)| [Main Index](../main.md) | [Next: 10.Data Binding / Event Binding? →](event_binding.md)

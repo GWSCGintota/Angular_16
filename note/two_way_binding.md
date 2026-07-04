@@ -1,3 +1,6 @@
+[← Previous:10.Data Binding / Event Binding? →](event_binding.md)| [Main Index](../main.md) | [Next: 11.ng-template? →](ng_template.md)
+
+
 # Two-Way Data Binding in Angular
 
 ## What is Two-Way Data Binding?
@@ -144,3 +147,5 @@ submit() {
 ## Conclusion
 
 Two-way data binding in Angular provides a simple way to keep the model and view in sync automatically. It is widely used in forms and user input handling, making development faster and easier.
+
+[← Previous:10.Data Binding / Event Binding? →](event_binding.md)| [Main Index](../main.md) | [Next: 11.ng-template? →](ng_template.md)

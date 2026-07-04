@@ -1,3 +1,6 @@
+[← Previous:10.Data Binding / Property Binding? →](property_binding.md)| [Main Index](../main.md) | [Next: 10.Data Binding / Two Way Binding? →](two_way_binding.md)
+
+
 # Event Binding in Angular
 
 ## What is Event Binding?
@@ -166,3 +169,6 @@ UI updates automatically
 ## Conclusion
 
 Event binding in Angular is used to respond to user actions such as clicks, typing, and mouse movements. It connects the view to the component logic and enables dynamic and interactive web applications.
+
+
+[← Previous:10.Data Binding / Property Binding? →](property_binding.md)| [Main Index](../main.md) | [Next: 10.Data Binding / Two Way Binding? →](two_way_binding.md)

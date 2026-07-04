@@ -1,3 +1,6 @@
+[← Previous: 6.Angular Core Pillars? →](core_pillars.md)| [Main Index](../main.md) | [Next: 8.Export and Import? →](export_import.md)
+
+
 # Module-less Concept in Angular (Standalone Architecture)
 
 ## What is Module-less Concept?
@@ -123,3 +126,6 @@ The module-less concept in Angular means:
 ## Conclusion
 
 Module-less Angular is the future of Angular development. It reduces complexity, improves readability, and allows developers to build applications faster with fewer structural constraints.
+
+
+[← Previous: 6.Angular Core Pillars? →](core_pillars.md)| [Main Index](../main.md) | [Next: 8.Export and Import? →](export_import.md)

@@ -1,3 +1,6 @@
+[← Previous: 7.Module-less Concept in Angular? →](Module-less.md)| [Main Index](../main.md) | [Next: 9.Decorators? →](decorators.md)
+
+
 # Import and Export Keywords in Angular
 
 ## What are Import and Export?
@@ -160,3 +163,7 @@ import MyClass from './my-class';
 ## Conclusion
 
 Import and export are fundamental TypeScript features used in Angular to connect components, services, and modules together in a clean and structured way.
+
+
+[← Previous: 7.Module-less Concept in Angular? →](Module-less.md)| [Main Index](../main.md) | [Next: 9.Decorators? →](decorators.md)
+

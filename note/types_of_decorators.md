@@ -1,3 +1,7 @@
+
+[← Previous: 9.Decorators? →](decorators.md)| [Main Index](../main.md) | [Next: 10.Data Binding / interpolation? →](interpolation.md)
+
+
 # Types of Decorators in Angular
 
 ## Introduction
@@ -141,3 +145,5 @@ export class AppComponent {
 ## Conclusion
 
 Angular decorators are essential for defining application structure, enabling dependency injection, handling events, and connecting components with the DOM. They form the foundation of Angular’s metadata-driven architecture.
+
+[← Previous: 9.Decorators? →](decorators.md)| [Main Index](../main.md) | [Next: 10.Data Binding / interpolation? →](interpolation.md)

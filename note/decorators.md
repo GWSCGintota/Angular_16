@@ -1,3 +1,7 @@
+[← Previous: 8.Export and Import? →](export_import.md)| [Main Index](../main.md) | [Next: Type of Decorators? →](decorators.md)
+
+
+
 # Decorators in Angular
 
 ## What are Decorators?
@@ -206,3 +210,6 @@ export class HighlightDirective {
 ## Conclusion
 
 Decorators are essential in Angular as they provide metadata that tells Angular how to process classes and their members. They form the foundation of Angular’s component-based architecture.
+
+[← Previous: 8.Export and Import? →](export_import.md)| [Main Index](../main.md) | [Next: Type of Decorators? →](decorators.md)
+
