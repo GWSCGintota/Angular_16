@@ -274,3 +274,6 @@ Angular works by:
 * Updating only necessary parts of the DOM
 
 This architecture allows Angular to build **fast, scalable, and dynamic Single Page Applications (SPA)**.
+
+
+[← Previous:3. Install Angular? →](install.md)| [Main Index](../main.md) | [Next: 4. Angular Folder Structure? →](best_angular_project_folder_structure.md)

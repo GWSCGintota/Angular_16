@@ -1,3 +1,5 @@
+[← Previous: 4.How to Run Angular? →](how_run_angular.md)| [Main Index](../main.md) | [Next: 6.Angular Core Pillars? →](core_pillars.md)
+
 # Best Folder Structure for an Angular Project
 
 > **Recommended style:** Modern Angular with standalone components, feature-based organization, lazy-loaded routes, and clear separation between `core`, `shared`, `features`, `layouts`, `assets`, and `environments`.
@@ -1416,3 +1418,6 @@ Is this app easy to scale?
 - [Angular Services Guide](https://angular.dev/guide/di/creating-and-using-services)
 - [Angular Build Environments](https://angular.dev/tools/cli/environments)
 - [Angular Workspace Configuration](https://angular.dev/reference/configs/workspace-config)
+
+[← Previous: 4.How to Run Angular? →](how_run_angular.md)| [Main Index](../main.md) | [Next: 6.Angular Core Pillars? →](core_pillars.md)
+

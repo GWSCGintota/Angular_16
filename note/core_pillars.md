@@ -1,3 +1,6 @@
+[← Previous: 4.Angular Folder Structure? →](best_angular_project_folder_structure.md)| [Main Index](../main.md) | [Next: 6.Module-less Concept in Angular? →](Module-less.md)
+
+
 # Angular Core Pillars
 
 Angular is built on several fundamental pillars that help developers create scalable, maintainable, and high-performance web applications.
@@ -231,3 +234,6 @@ The main pillars of Angular are:
 8. Pipes
 
 Together, these pillars provide a powerful framework for building modern, scalable, and maintainable web applications.
+
+[← Previous: 4.Angular Folder Structure? →](best_angular_project_folder_structure.md)| [Main Index](../main.md) | [Next: 6.Module-less Concept in Angular? →](Module-less.md)
+

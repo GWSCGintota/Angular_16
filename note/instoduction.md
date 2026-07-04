@@ -71,3 +71,5 @@ Application
 ## Conclusion
 
 Angular is a comprehensive framework for building modern web applications. Its component-based architecture, powerful tooling, and extensive feature set make it a popular choice for developing scalable and maintainable applications. Whether you are creating a small web application or a large enterprise solution, Angular provides the tools and structure needed to build robust and efficient applications.
+
+[Main Index](../main.md) | [Next: 2. History →](history.md)

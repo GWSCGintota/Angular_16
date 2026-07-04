@@ -42,3 +42,6 @@ Angular follows a regular release cycle, typically releasing major versions ever
 ## Conclusion
 
 Angular has evolved from AngularJS into a modern, enterprise-grade framework. Each version introduces performance improvements, developer productivity enhancements, and modern web development features, making Angular one of the most widely used frameworks for building web applications.
+
+
+[← Previous: 1. Introduction](instoduction.md) | [Main Index](../main.md) | [Next: 3. Install Angular? →](install.md)
