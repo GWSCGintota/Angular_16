@@ -1,4 +1,7 @@
-# ng-template in Angular
+[← Previous: 10.Data Binding/Two Way Binding? →](two_way_binding.md)| [Main Index](../main.md) | [Next: 12.Angular Prebuilt HTML Tags? →](prebuilt_html_tags.md)
+
+
+# 11. ng-template in Angular
 
 ## What is `ng-template`?
 
@@ -148,3 +151,5 @@ Inserts into DOM dynamically
 ## Conclusion
 
 `ng-template` is a powerful Angular feature that helps developers create flexible, reusable, and dynamic UI structures without directly rendering content until it is needed.
+
+[← Previous: 10.Data Binding/Two Way Binding? →](two_way_binding.md)| [Main Index](../main.md) | [Next: 12.Angular Prebuilt HTML Tags? →](prebuilt_html_tags.md)

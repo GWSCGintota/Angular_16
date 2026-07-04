@@ -140,4 +140,5 @@ getMessage() {
 ## Conclusion
 
 Interpolation in Angular is a simple and powerful way to display dynamic data in templates using `{{ }}`. It helps connect the component logic with the user interface efficiently.
+---
 [← Previous: 9.Decorators? →](decorators.md)| [Main Index](../main.md) | [Next: 10.Data Binding / Property Binding? →](property_binding.md)
